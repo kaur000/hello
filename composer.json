@@ -1,0 +1,13 @@
+{
+  "name": "msaini/328/hello",
+  "description": "my first fat-free MVC project",
+  "authors": [
+    {
+      "name": "Mehak Saini",
+      "email": "saini.mehak@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
